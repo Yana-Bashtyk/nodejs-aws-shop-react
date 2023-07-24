@@ -9,36 +9,42 @@ export const products: Product[] = [
     id: "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
     price: 24,
     title: "ProductOne",
+    image: "https://images.unsplash.com/photo-1590400927033-ad8976c5ab7c"
   },
   {
     description: "Short Product Description7",
     id: "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
     price: 15,
     title: "ProductTitle",
+    image: "https://images.unsplash.com/photo-1586985288348-b3b4b1a50b58"
   },
   {
     description: "Short Product Description2",
     id: "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
     price: 23,
     title: "Product",
+    image: "https://images.unsplash.com/photo-1649613437122-013d7c84ffd5"
   },
   {
     description: "Short Product Description4",
     id: "7567ec4b-b10c-48c5-9345-fc73348a80a1",
     price: 15,
     title: "ProductTest",
+    image: "https://images.unsplash.com/photo-1621939514649-280e2ee25f60"
   },
   {
     description: "Short Product Descriptio1",
     id: "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
     price: 23,
     title: "Product2",
+    image: "https://images.unsplash.com/photo-1650214732682-bbb51e9d59fe"
   },
   {
     description: "Short Product Description7",
     id: "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
     price: 15,
     title: "ProductName",
+    image: "https://images.unsplash.com/photo-1553452118-621e1f860f43"
   },
 ];
 
@@ -53,6 +59,7 @@ export const cart: CartItem[] = [
       id: "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
       price: 24,
       title: "ProductOne",
+      image: "https://images.unsplash.com/photo-1590400927033-ad8976c5ab7c"
     },
     count: 2,
   },
@@ -62,6 +69,7 @@ export const cart: CartItem[] = [
       id: "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
       price: 15,
       title: "ProductName",
+      image: "https://images.unsplash.com/photo-1553452118-621e1f860f43"
     },
     count: 5,
   },
